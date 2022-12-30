@@ -1,4 +1,4 @@
-👋 Hi, my name is Victor Oliveira and i'm a Software Engineer working at AmbevTech as Tech Lead.
+👋 Hi, my name is Victor Oliveira and i'm a Fullstack Software Engineer working at AmbevTech as Tech Lead.
 
 👀 I’m interested in Cloud Computing, Distributed Systems, IoT Development/Integrations at moment.
 
